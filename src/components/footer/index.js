@@ -1,6 +1,4 @@
 import React from 'react';
-
-
 const Footer = () => {
     return (
         <>
@@ -18,32 +16,6 @@ const Footer = () => {
                                 </ul>
                             </div>
                         </div>
-                        {/* <div className="col-md pt-5 border-left">
-                            <div className="ftco-footer-widget pt-md-5 mb-4 ml-md-5">
-                                <h2 className="ftco-heading-2">Infromation</h2>
-                                <ul className="list-unstyled">
-                                    <li><a href="#" className="py-2 d-block">Online Enquiry</a></li>
-                                    <li><a href="#" className="py-2 d-block">General Enquiries</a></li>
-                                    <li><a href="#" className="py-2 d-block">Booking Conditions</a></li>
-                                    <li><a href="#" className="py-2 d-block">Privacy and Policy</a></li>
-                                    <li><a href="#" className="py-2 d-block">Refund Policy</a></li>
-                                    <li><a href="#" className="py-2 d-block">Call Us</a></li>
-                                </ul>
-                            </div>
-                        </div> */}
-                        {/* <div className="col-md pt-5 border-left">
-                            <div className="ftco-footer-widget pt-md-5 mb-4">
-                                <h2 className="ftco-heading-2">Experience</h2>
-                                <ul className="list-unstyled">
-                                    <li><a href="#" className="py-2 d-block">Adventure</a></li>
-                                    <li><a href="#" className="py-2 d-block">Hotel and Restaurant</a></li>
-                                    <li><a href="#" className="py-2 d-block">Beach</a></li>
-                                    <li><a href="#" className="py-2 d-block">Nature</a></li>
-                                    <li><a href="#" className="py-2 d-block">Camping</a></li>
-                                    <li><a href="#" className="py-2 d-block">Party</a></li>
-                                </ul>
-                            </div>
-                        </div> */}
                         <div className="col-md pt-5 border-left">
                             <div className="ftco-footer-widget pt-md-5 mb-4">
                                 <h2 className="ftco-heading-2">Have a Questions?</h2>
