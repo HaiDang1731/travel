@@ -20,7 +20,6 @@ const Blog = () => {
                   setCurrentPage(pageNumber);
             }
       };
-
       return (
             <React.Fragment>
 

@@ -5,7 +5,6 @@ import dataService from '../../service/data';
 
 const Home = () => {
 
-
       var settings = {
             dots: true,
             infinite: false,
