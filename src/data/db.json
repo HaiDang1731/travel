@@ -3,32 +3,52 @@
     {
       "id": 1,
       "name": "Mumbai",
+<<<<<<< HEAD
       "image": "https://ik.imagekit.io/tvlk/blog/2023/06/du-lich-mumbai-1.jpg?tr=dpr-2,w-675"
+=======
+      "image": ""
+>>>>>>> 4f34a1cdf4949aee22df952e7b32b32cc8877994
     },
     {
       "id": 2,
       "name": "Philipines",
+<<<<<<< HEAD
       "image": "https://dulichbennghe.cdn.vccloud.vn/wp-content/uploads/2020/02/du-lich-ben-nghe-tour-philippin.jpg"
+=======
+      "image": ""
+>>>>>>> 4f34a1cdf4949aee22df952e7b32b32cc8877994
     },
     {
       "id": 3,
       "name": "Canada",
+<<<<<<< HEAD
       "image": "https://johnhu.com.vn/dat-nuoc-canada/"
+=======
+      "image": ""
+>>>>>>> 4f34a1cdf4949aee22df952e7b32b32cc8877994
     },
     {
       "id": 4,
       "name": "Thailand",
+<<<<<<< HEAD
       "image": "https://www.vietnambooking.com/wp-content/uploads/2017/12/du-lich-thai-lan-27-12-2017-1-550x366.jpg"
+=======
+      "image": ""
+>>>>>>> 4f34a1cdf4949aee22df952e7b32b32cc8877994
     },
     {
       "id": 5,
       "name": "Australia",
+<<<<<<< HEAD
       "image": "https://dulichvn.org.vn/nhaptin/uploads/images/2019/thang3/khamphanhungthapphoccuauc.jpg  "
     },
     {
       "id": 5,
       "name": "Việt Nam",
       "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fvi%2Fb%25E1%25BB%25A9c-%25E1%25BA%25A3nh%2Fvi%25E1%25BB%2587t-nam&psig=AOvVaw2GnWc6qPjmu-RjFB72rH24&ust=1726970290785000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDJpfH30ogDFQAAAAAdAAAAABAE"
+=======
+      "image": ""
+>>>>>>> 4f34a1cdf4949aee22df952e7b32b32cc8877994
     }
   ],
   "tours": [

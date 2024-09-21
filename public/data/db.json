@@ -1,0 +1,29 @@
+{
+      "destination":[
+            {
+                  "id": "1",
+                  "name": "Mumbai"
+            }
+      ],
+      "tours":[{
+            "id": "2",
+            "price":"550",
+            "name":"Bachkhoa aptech",
+            "destinationId":"1",
+            "location":"hoang quoc viet, cau giay",
+            "images":"truongdz.jpg",
+            "bath_room_count":"2",
+            "bed_room_count":"3",
+            "near":0,
+            "transportation":"plane",
+            "count_day":10
+      }],
+"users":[{
+      "username":"truongdz","password":"12356"
+}], "post":[{
+      "date":"11/12/2024",
+      "id":"1",
+      "title":"truonghihi",
+      "content":"chao moi nguoi "
+}]
+}
