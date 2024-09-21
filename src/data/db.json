@@ -1,0 +1,78 @@
+{
+  "destination": [
+    {
+      "id": 1,
+      "name": "Mumbai",
+      "image": "https://ik.imagekit.io/tvlk/blog/2023/06/du-lich-mumbai-1.jpg?tr=dpr-2,w-675"
+    },
+    {
+      "id": 2,
+      "name": "Philipines",
+      "image": "https://dulichbennghe.cdn.vccloud.vn/wp-content/uploads/2020/02/du-lich-ben-nghe-tour-philippin.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Canada",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "Thailand",
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "Australia",
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "Việt Nam",
+      "image": ""
+    }
+  ],
+  "tours": [
+    {
+      "id": "2",
+      "price": "550",
+      "name": "Bachkhoa aptech",
+      "destinationId": 1,
+      "location": "hoang quoc viet, cau giay",
+      "images": "truongdz.jpg",
+      "bath_room_count": "2",
+      "bed_room_count": "3",
+      "near": 0,
+      "transportation": "plane",
+      "count_day": 10
+    }
+  ],
+  "users": [
+    {
+      "username": "truongdz@gmail.com",
+      "password": "111111"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Most Popular Place In This World",
+      "date": { "day": 11, "month": "September", "year": 2020 },
+      "image": "images/image_1.jpg",
+      "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia."
+    }
+  ],
+  "hotels": [
+    {
+      "id": "2",
+      "price": "550",
+      "name": "Bachkhoa aptech",
+      "destinationId": 1,
+      "location": "hoang quoc viet, cau giay",
+      "images": "truongdz.jpg",
+      "bath_room_count": "2",
+      "bed_room_count": "3",
+      "near": 0,
+      "count_day": 10
+    }
+  ]
+}
